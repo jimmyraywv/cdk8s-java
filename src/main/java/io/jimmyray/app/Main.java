@@ -12,8 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class Main extends Chart 
-{
+public class Main extends Chart {
 
     public Main(final Construct scope, final String id) {
         this(scope, id, null);
